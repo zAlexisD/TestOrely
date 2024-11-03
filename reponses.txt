@@ -1,0 +1,6 @@
+Exercice 2: Création des dossiers:
+
+Q1) Le dossier courant
+Q2) mkdir -p output/student output/teacher
+
+
